@@ -1,0 +1,24 @@
+Capstone Project - The Battle of Neighborhoods
+Author: Aaras Dhokiya
+Introduction:
+New York City and the city of Toronto are both very international, which attracts a huge amount of tourists to visit each year. Thanks to the diversified and inclusive culture of these two big cities, different restaurants with food from different countries are able to become popular in these two cities.
+
+"AX" is a food company mainly located in South America. It provides asian food from China, India and Japan. This time, the CEO decides to open up their first restaurant in North America. New York City and the city of Toronto are both their potential locations for the new restaurant. Now, what should they do? Which city have more asian restaurants? Which city is more open to asian cultures?
+
+Therefore, this time, I would like to compare the restaurants of the two cities and figure out which one has more asian restaurants. Do New York City has more Chinese, Indian, or Japanese restaurants than Toronto?
+
+Data:
+Foursquare will be used to gather the locations of different restaurant. It provides different types of restaurants in a given area and enables us to analyze the numbers of Chinese, Japanese, Indian restaurants in New York City and City of Toronto.
+
+Methodology:
+In this report, I will explore the restaurants in the New York and the city of Toronto by segmenting data and conducting descriptive analysis using Panda. Web scraping and API will be used to generate data.
+
+Results:
+By analyzing the frequencies of occurrences of Chinese, Indian, Japanese restaurants in the New York City and the City of Toronto, we can see that the City of Toronto has more asian restaurant in total.
+
+Discussion:
+The variety of restaurants in the New York City is more abundent than the City of Toronto. It causes the number of one particular restaurant to drop. People may rather try different restaurants than just stick to one type of food. That's the reason why we don't see too many Chinese, Japanese or Indian restaurants in New York City.
+
+As an asian food company, "AX" will definitely face intensive competition to get into New York. Opening up their restaurant in the City of Toronto first will not only bring them loyal customers in Canada, but also prepare them to enter into US market.
+Conclusion:
+"AX" should open up first North America restaurant in the City of Toronto. I believe it can bring it greater success.
